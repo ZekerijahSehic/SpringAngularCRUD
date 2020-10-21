@@ -1,0 +1,12 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+
+.users-table{
+  margin-top: 30px;
+}
+#addUser {
+  margin-top: 30px;
+}
+.btn {
+  margin: 2px;
+}
